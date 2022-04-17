@@ -1,4 +1,4 @@
-# day-1-vue
+# designschool.canva.com | Adam Widmanski
 
 ## Project setup
 ```
